@@ -1,6 +1,7 @@
 <p align="left">Hello, I am Recal</p>
 
 ###
+### 💻 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -25,6 +26,7 @@
 </div>
 
 ###
+### 💻 Social Media
 
 <div align="left">
   <a href="https://www.linkedin.com/in/stev1ol/" target="_blank">
