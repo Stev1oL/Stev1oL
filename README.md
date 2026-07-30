@@ -1,37 +1,63 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Recal Prasetyo</h1>
+<!-- # <img src="./assets/profile-banner.svg" alt="Recal Prasetyo banner" width="100%" /> -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d0/97/9b/d0979b26cec609049b3d1a3dee5b89b3.gif" alt="Banner" width="40%" />
-</p>
-
-## About Me
-- I'm currently learning AI/ML
-
-## Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/stev1ol/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>
-</p>
-
-## GitHub Stats
-<p align="center">
-  <a href="https://github.com/stev1ol">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stev1ol&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="stev1ol's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=stev1ol&theme=radical&hide_border=true&cache_seconds=86400" alt="stev1ol's GitHub Streak" width="49%" />
+  ☕ Coding Enthusiast | 🖥️ Backend Developer
 </p>
 
 <p align="center">
-  <a href="https://github.com/stev1ol">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stev1ol&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
+  <a href="#">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/stev1ol">LinkedIn</a>
+  ·
+  <a href="mailto:iamrecal10@gmail.com">Email</a>
 </p>
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=E34F26" alt="Java" />
+  <img src="https://img.shields.io/badge/ExpressJs-111827?style=for-the-badge&logo=express&logoColor=000000" alt="Express JS" />
+  <img src="https://img.shields.io/badge/NestJs-111827?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="Nest JS" />
+  <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+  <img src="https://img.shields.io/badge/SpringBoot-111827?style=for-the-badge&logo=springboot&logoColor=00FF00" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/ReactJs-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=13AA52" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
 
-<a href="https://komarev.com/ghpvc/?username=stev1ol">
-  <img src="https://komarev.com/ghpvc/?username=stev1ol&label=Profile%20views&color=00FFFF&style=flat-square" alt="stev1ol's profile views" />
-</a>
+## Currently Building
+
+Full stack applications.
+
+## GitHub Statistics
+
+<p>
+  <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stev1ol&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/stev1ol/stev1ol/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for my url" width="100%" />
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stev1ol/stev1ol/output/puzzle-bobble-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stev1ol/stev1ol/output/puzzle-bobble-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/stev1ol/stev1ol/output/puzzle-bobble-contribution-graph-dark.svg" alt="Puzzle Bobble-style contribution graph" width="100%" />
+  </picture>
+</p>
