@@ -43,8 +43,7 @@ Full stack applications.
 ## GitHub Statistics
 
 <p>
-  <!-- <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" /> -->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=stev1ol&theme=dark)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </p>
 
 <p>
