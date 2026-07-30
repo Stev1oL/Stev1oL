@@ -21,7 +21,7 @@ jobs:
               with:
                   github_user_name: ${{ github.repository_owner }}
                   # Comma-separated list of game names to generate. Default: pacman
-                  games: 'pacman,breakout'
+                  games: 'pacman,breakout,bomberman'
 
             # Push the generated SVGs to the output branch
             - name: push SVGs to the output branch
