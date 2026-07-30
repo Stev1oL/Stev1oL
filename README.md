@@ -1,5 +1,5 @@
 <!-- # <img src="./assets/profile-banner.svg" alt="Recal Prasetyo banner" width="100%" /> -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Recal%20Prasetyo&fontSize=42&fontColor=C9D1D9&desc=Backend%20Developer&descSize=18&descAlignY=30)
+https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Recal%20Prasetyo&fontColor=100402&desc=Backend%20Developer&descAlignY=70&fontSize=60&animation=blinking
 
 <p align="center">
   ☕ Coding Enthusiast | 🖥️ Backend Developer
@@ -44,7 +44,7 @@ Full stack applications.
 ## GitHub Statistics
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 <p>
