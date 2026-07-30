@@ -1,5 +1,7 @@
 <!-- # <img src="./assets/profile-banner.svg" alt="Recal Prasetyo banner" width="100%" /> -->
-<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Recal%20Prasetyo&fontColor=100402&desc=Backend%20Developer&descAlignY=70&fontSize=60&animation=blinking" alt="Recal Prasetyo banner" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Recal%20Prasetyo&fontColor=100402&desc=Backend%20Developer&descAlignY=70&fontSize=60&animation=blinking" alt="Recal Prasetyo banner" />
+</p>
 
 <p align="center">
   ☕ Coding Enthusiast | 🖥️ Backend Developer
