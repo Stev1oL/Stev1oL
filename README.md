@@ -43,7 +43,8 @@ Full stack applications.
 ## GitHub Statistics
 
 <p>
-  <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
+  <!-- <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" /> -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=stev1ol&theme=dark)](https://git.io/streak-stats)
 </p>
 
 <p>
@@ -51,13 +52,13 @@ Full stack applications.
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/stev1ol/stev1ol/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for my url" width="100%" />
+  <!-- <img src="https://raw.githubusercontent.com/stev1ol/stev1ol/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for my url" width="100%" /> -->
 </p>
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stev1ol/stev1ol/output/puzzle-bobble-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stev1ol/stev1ol/output/puzzle-bobble-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/stev1ol/stev1ol/output/puzzle-bobble-contribution-graph-dark.svg" alt="Puzzle Bobble-style contribution graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stev1ol/stev1ol/output/bomberman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stev1ol/stev1ol/output/bomberman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/stev1ol/stev1ol/output/bomberman-contribution-graph-dark.svg" alt="Bomberman-style contribution graph" width="100%" />
   </picture>
 </p>
