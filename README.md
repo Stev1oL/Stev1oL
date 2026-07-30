@@ -1,4 +1,5 @@
 <!-- # <img src="./assets/profile-banner.svg" alt="Recal Prasetyo banner" width="100%" /> -->
+![header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Recal%20Prasetyo&fontSize=42&fontColor=C9D1D9&desc=Backend%20Developer&descSize=18&descAlignY=30)
 
 <p align="center">
   ☕ Coding Enthusiast | 🖥️ Backend Developer
