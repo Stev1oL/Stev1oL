@@ -46,6 +46,8 @@ Full stack applications.
 ## GitHub Statistics
 
 <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=stev1ol&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img src="https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only" />
   <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
