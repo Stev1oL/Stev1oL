@@ -55,9 +55,9 @@ Full stack applications.
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark#gh-dark-mode-only" />
 </p>
 
-<p>
+<!-- <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stev1ol&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
-</p>
+</p> -->
 
 <p>
   <!-- <img src="https://raw.githubusercontent.com/stev1ol/stev1ol/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for my url" width="100%" /> -->
